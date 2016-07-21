@@ -31,8 +31,8 @@
   st = status
   out = log origin..HEAD
 [user]
-  name = Isaac Helbling
-  email = imhelbling@gmail.com
+  name = Alex Smiley
+  email = a.smiley46@gmail.com
 [pull]
 	rebase = preserve
   # --no-rebase if you don't want to auto-rebase
@@ -43,7 +43,7 @@
 	clean = git media clean %f
 	smudge = git media smudge %f
 [github]
-	user = isaachelbling
+	user = alexsmiley
 [filter "hawser"]
 	clean = git hawser clean %f
 	smudge = git hawser smudge %f
